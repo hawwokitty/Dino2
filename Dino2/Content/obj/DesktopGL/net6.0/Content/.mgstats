@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/get_stuff/Dino2/Dino2/Content/cactus.png","D:/get_stuff/Dino2/Dino2/Content/bin/DesktopGL/Content/cactus.xnb","TextureProcessor","Texture2DContent",541,33405,0.088565
+"D:/get_stuff/Dino2/Dino2/Content/dino.png","D:/get_stuff/Dino2/Dino2/Content/bin/DesktopGL/Content/dino.xnb","TextureProcessor","Texture2DContent",933,145909,0.0968341
+"D:/get_stuff/Dino2/Dino2/Content/Fonts/gameFont.spritefont","D:/get_stuff/Dino2/Dino2/Content/bin/DesktopGL/Content/Fonts/gameFont.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0.1580933
+"D:/get_stuff/Dino2/Dino2/Content/start.png","D:/get_stuff/Dino2/Dino2/Content/bin/DesktopGL/Content/start.xnb","TextureProcessor","Texture2DContent",8682,1108885,0.109378
